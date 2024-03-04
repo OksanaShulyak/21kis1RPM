@@ -1,0 +1,16 @@
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\bin\Debug\Wpf_1pr.exe.config
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\bin\Debug\Wpf_1pr.exe
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\bin\Debug\Wpf_1pr.pdb
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr.csproj.AssemblyReference.cache
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr.csproj.SuggestedBindingRedirects.cache
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\MainWindow.g.cs
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\App.g.cs
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr_MarkupCompile.cache
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr_MarkupCompile.lref
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\MainWindow.baml
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr.g.resources
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr.Properties.Resources.resources
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr.csproj.GenerateResource.cache
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr.csproj.CoreCompileInputs.cache
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr.exe
+C:\Users\shuly\Desktop\Пример_рнаботы_Фото_с_БД\Wpf_1pr\Wpf_1pr\obj\Debug\Wpf_1pr.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="Wpf_1pr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_1pr"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="Foto" AutoGenerateColumns="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ФИО" Binding="{Binding НаименованиеКлиента}"></DataGridTextColumn>
+                <DataGridTextColumn Header="ИНН" Binding="{Binding ИНН}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Город" Binding="{Binding Город}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Телефон" Binding="{Binding Телефон}"></DataGridTextColumn>
+                <DataGridTemplateColumn Header="Фото" Width="100" IsReadOnly="True">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Фото}"></Image>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+    </Grid>
+</Window>
